@@ -8,8 +8,8 @@
 			"max": 8
 		},
 		"maps": [
-			"Arctic Ruins",
-			"Balloons Christmas",
+			"Beckam",
+			"BlockRAGE",
 			"Bulwark",
 			"Covert Fortress",
 			"Cursed Library",
@@ -21,17 +21,16 @@
 			"Gelid 2",
 			"Halcyon Holiday",
 			"Lagoon",
+			"Limbo 2",
 			"Loyalty DTM",
 			"Mini Drought",
 			"Neo Arena",
-			"Oriental",
 			"Rampant",
 			"Snowstone",
 			"Sarc",
 			"Settler's Covert",
 			"Vertex",
-			"Voltage",
-			"Watchtower DTM"
+			"Voltage"
 		]
 	},
 	{
@@ -58,8 +57,10 @@
 			"Loyalty DTM",
 			"Oriental",
 			"Persisto",
+			"Plus Side",
 			"Ricco Christmas",
 			"Rooted",
+			"Smoke KOTH",
 			"Snowstone",
 			"Skylands Reborn",
 			"Snowy Wars Christmas",
@@ -82,6 +83,7 @@
 		},
 		"maps": [
 			"A New Day",
+			"Abudor 2",
 			"Aerial Conquest",
 			"Anasaria",
 			"Ancient Cistern",

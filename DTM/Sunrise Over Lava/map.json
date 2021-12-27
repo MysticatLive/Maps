@@ -99,6 +99,8 @@
 				{"type": "item", "material": "bow", "enchantments": ["infinity:1"], "slot": 1, "unbreakable": true},
 				{"type": "item", "material": "diamond pickaxe", "slot": 2, "unbreakable": true},
 				{"type": "item", "material": "iron shovel", "enchantments": ["efficiency:1"], "slot": 3, "unbreakable": true},
+				{"type": "item", "material": "smooth sandstone", "slot": 4, "amount": 64},
+				{"type": "item", "material": "smooth sandstone", "slot": 5, "amount": 32},
 
 				{"type": "item", "material": "cooked cod", "slot": 8, "amount": 32},
 				{"type": "item", "material": "arrow", "slot": 28, "amount": 1},
@@ -110,22 +112,6 @@
 			],
 			"effects": [
 				{"type": "DAMAGE_RESISTANCE", "duration": 90, "amplifier": 10000, "particles": false}
-			]
-		},
-		{
-			"name": "Fire Kit",
-			"teams": ["fire"],
-			"items": [
-				{"type": "item", "material": "red terracotta", "slot": 4, "amount": 64},
-				{"type": "item", "material": "red stained glass", "slot": 5, "amount": 32}
-			]
-		},
-		{
-			"name": "Water Kit",
-			"teams": ["water"],
-			"items": [
-				{"type": "item", "material": "blue terracotta", "slot": 4, "amount": 64},
-				{"type": "item", "material": "blue stained glass", "slot": 5, "amount": 32}
 			]
 		}
 	],

@@ -60,6 +60,7 @@
 				{"material": "iron shovel", "slot": 3, "unbreakable": true},
 
 				{"material": "oak planks", "slot": 4, "amount": 64},
+				{"material": "smooth sandstone", "slot": 5, "amount": 32},
 				{"material": "cooked beef", "slot": 8, "amount": 64},
 				{"material": "arrow", "slot": 9, "amount": 32},
 
@@ -67,20 +68,6 @@
 				{"material": "chainmail chestplate", "slot": "chestplate", "unbreakable": true},
 				{"material": "chainmail leggings", "slot": "leggings", "unbreakable": true},
 				{"material": "leather boots", "slot": "boots", "unbreakable": true}
-			]
-		},
-		{
-			"name": "Green",
-			"teams": ["green"],
-			"items": [
-				{"material": "green stained glass", "slot": 5, "amount": 32}
-			]
-		},
-		{
-			"name": "Red",
-			"teams": ["red"],
-			"items": [
-				{"material": "red stained glass", "slot": 5, "amount": 32}
 			]
 		}
 	],

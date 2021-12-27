@@ -58,6 +58,7 @@
 				{"material": "bow", "slot": 1, "unbreakable": true},
 				{"material": "diamond axe", "slot": 2, "unbreakable": true},
 				{"material": "iron pickaxe", "slot": 3, "unbreakable": true},
+				{"material": "smooth sandstone", "slot": 4, "amount": 64},
 
 				{"material": "arrow", "slot": 9, "amount": 64},
 				{"material": "cooked beef", "slot": 8, "amount": 10},
@@ -69,20 +70,6 @@
 			],
 			"effects": [
 				{"type": "saturation", "duration": 99999999, "amplifier": 255, "particles": false}
-			]
-		},
-		{
-			"name": "Blue",
-			"teams": ["blue"],
-			"items": [
-				{"material": "blue stained glass", "slot": 4, "amount": 64}
-			]
-		},
-		{
-			"name": "Red",
-			"teams": ["red"],
-			"items": [
-				{"material": "red stained glass", "slot": 4, "amount": 64, "durability": 14}
 			]
 		}
 	],

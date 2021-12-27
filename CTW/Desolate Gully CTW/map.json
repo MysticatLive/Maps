@@ -39,6 +39,7 @@
 				{"material": "stone axe", "slot": 3, "unbreakable": true},
 
 				{"material": "acacia planks", "slot": 4, "amount": 48},
+				{"material": "smooth sandstone", "slot": 5, "amount": 36},
 				{"material": "golden carrot", "slot": 8, "amount": 64},
 				{"material": "arrow", "slot": 28, "amount": 36},
 
@@ -49,20 +50,6 @@
 			],
 			"effects": [
 				{"type": "DAMAGE_RESISTANCE", "duration": 60, "amplifier": 10000, "particles": false}
-			]
-		},
-		{
-			"name": "Blue",
-			"teams": ["blue"],
-			"items": [
-				{"material": "blue terracotta", "slot": 5, "amount": 36}
-			]
-		},
-		{
-			"name": "Red",
-			"teams": ["red"],
-			"items": [
-				{"material": "red terracotta", "slot": 5, "amount": 36}
 			]
 		}
 	],

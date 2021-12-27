@@ -48,7 +48,7 @@
                 {"material": "tnt", "slot": 29, "amount": 64},
                 {"material": "cobblestone slab", "slot": 2, "amount": 16},
 		    
-		{"material": "black stained glass", "slot": 12, "amount": 64},
+		        {"material": "black stained glass", "slot": 12, "amount": 64},
                 {"material": "black terracotta", "slot": 21, "amount": 64},
                 {"material": "black terracotta", "slot": 30, "amount": 64},
                 {"material": "black terracotta", "slot": 3, "amount": 64},

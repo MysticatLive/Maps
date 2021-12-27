@@ -62,6 +62,7 @@
 		{"material": "iron pickaxe", "slot": 2, "unbreakable": true},
 		{"material": "stone axe", "slot": 3, "unbreakable": true},
 		{"material": "spruce planks", "slot": 4, "amount": 16},
+		{"material": "smooth sandstone", "slot": 5, "amount": 24},
 		{"material": "arrow", "slot": 7, "amount": 24},
 		{"material": "golden carrot", "slot": 8, "amount": 64},
 
@@ -69,20 +70,6 @@
 		{"material": "chainmail chestplate", "slot": "chestplate", "unbreakable": true},
 		{"material": "leather leggings", "slot": "leggings", "unbreakable": true},
 		{"material": "leather boots", "slot": "boots", "unbreakable": true}
-	  ]
-	},
-	{
-	  "name": "Blue",
-	  "teams": ["blue"],
-	  "items": [
-		{"material": "blue_terracotta", "slot": 5, "amount": 24}
-	  ]
-	},
-	{
-	  "name": "Red",
-	  "teams": ["red"],
-	  "items": [
-		{"material": "red_terracotta", "slot": 5, "amount": 24}
 	  ]
 	}
   ],

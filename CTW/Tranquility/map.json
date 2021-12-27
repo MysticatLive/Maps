@@ -84,6 +84,7 @@
 				{"material": "iron shovel", "slot": 31, "enchantments": ["efficiency:1"], "unbreakable": true},
 
 				{"material": "oak planks", "slot": 4, "amount": 32},
+				{"material": "smooth sandstone", "slot": 5, "amount": 16},
 				{"material": "golden carrot", "slot": 8, "amount": 64},
 				{"material": "arrow", "slot": 28, "amount": 1},
 
@@ -92,21 +93,7 @@
 				{"material": "chainmail leggings", "slot": "leggings", "unbreakable": true},
 				{"material": "iron boots", "slot": "boots", "unbreakable": true}
 			]
-		},
-		{
-			"name": "Blue",
-			"teams": ["blue"],
-			"items": [
-				{"material": "blue stained glass", "slot": 5, "amount": 16}
-			]
-		},
-		{
-			"name": "Red",
-			"teams": ["red"],
-			"items": [
-				{"material": "red stained glass", "slot": 5, "amount": 16}
-			]
-		},
+		}
 		{
 			"name": "specs",
 			"teams": ["spectators"],
